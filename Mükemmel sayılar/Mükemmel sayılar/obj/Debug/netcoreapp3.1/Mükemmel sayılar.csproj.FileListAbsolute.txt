@@ -1,0 +1,32 @@
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.exe
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.deps.json
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.runtimeconfig.json
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.runtimeconfig.dev.json
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.dll
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.pdb
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel_sayılar.Form1.resources
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.dll
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.pdb
+C:\Users\pc\OneDrive\Masaüstü\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.exe
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.deps.json
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.runtimeconfig.json
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.runtimeconfig.dev.json
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.dll
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\bin\Debug\netcoreapp3.1\Mükemmel sayılar.pdb
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel_sayılar.Form1.resources
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.dll
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.pdb
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\Mükemmel sayılar\Mükemmel sayılar\obj\Debug\netcoreapp3.1\Mükemmel sayılar.genruntimeconfig.cache
